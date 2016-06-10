@@ -11,8 +11,7 @@ Copyright (C) 2016, Mikhael GERBET <frollon.noir@gmail.com>.
 
 Get both livestamp.js, moment.js and angular-livestamp
 
-- via npm: by running ``` $ npm install angular-livestamp ``` from your console
-- or via Bower: by running ``` $ bower install angular-livestamp ``` from your console
+via Bower: by running ``` $ bower install angular-livestamp ``` from your console
 
 Include both livestamp.js, moment.js and angular-livestamp.js in your application.
 
@@ -35,15 +34,9 @@ For example :
 <span mg-livestamp="2016-06-09 22:21:00"></span>
 ```
 
-You can also pass timestamp, for example:
-
-```html
-<span mg-livestamp="1465426421"></span>
-```
-
 ### Example
 
-See [online example on Jsfiddle](http://soon).
+See [online example on Jsfiddle](https://jsfiddle.net/mikhaelgerbet/r5kfj7b1/).
 
 ## License
 
