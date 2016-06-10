@@ -5,6 +5,7 @@ Angular directive to show an auto-updating timeago text to your timestamped HTML
 Copyright (C) 2016, Mikhael GERBET <frollon.noir@gmail.com>.
 
 [![Build Status](https://travis-ci.org/MikhaelGerbet/angular-livestamp.png?branch=master)](https://travis-ci.org/MikhaelGerbet/angular-livestamp)
+[![Coverage Status](https://coveralls.io/repos/github/MikhaelGerbet/angular-livestamp/badge.svg?branch=master)](https://coveralls.io/github/MikhaelGerbet/angular-livestamp?branch=master)
 
 ## Usage
 
