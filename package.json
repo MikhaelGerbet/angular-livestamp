@@ -1,6 +1,6 @@
 {
   "name": "angular-livestamp",
-  "version": "0.1.1",
+  "version": "1.0.1",
   "description": "Angular directive to show an auto-updating timeago text to your timestamped HTML elements (using Livestamp.js and Moment.js)",
   "main": "angular-livestamp.js",
   "scripts": {
