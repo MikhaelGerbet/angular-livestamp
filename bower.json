@@ -13,7 +13,7 @@
   "_resolution": {
     "type": "version",
     "tag": "0.1.0",
-    "commit": "6cbf56991eb21756597ca675bbde804db136cbb5"
+    "commit": "faf13a17ff9fc915c680e8f8c929cc335aa7dc23"
   },
   "_originalSource": "angular-livestamp",
   "_direct": true,
