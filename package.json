@@ -1,0 +1,49 @@
+{
+  "name": "angular-livestamp",
+  "version": "0.0.0",
+  "description": "Angular directive to show an auto-updating timeago text to your timestamped HTML elements (using Livestamp.js and Moment.js)",
+  "main": "angular-livestamp.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MikhaelGerbet/angular-livestamp.git"
+  },
+  "keywords": [
+    "moment",
+    "momentjs",
+    "livestamp",
+    "livestampjs",
+    "angular",
+    "angularjs"
+  ],
+  "author": "Gerbet Mikhael - <frollon.noir@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MikhaelGerbet/angular-livestamp/issues"
+  },
+  "homepage": "https://github.com/MikhaelGerbet/angular-livestamp",
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "load-grunt-tasks": "~3.5.0",
+    "grunt-contrib-jshint": "~1.0.0",
+    "grunt-contrib-uglify": "~1.0.1",
+    "karma": "~0.13.22",
+    "grunt-karma": "~2.0.0",
+    "karma-coverage": "~1.0.0",
+    "jasmine-core": "~2.4.1",
+    "karma-jasmine": "~1.0.2",
+    "phantomjs-prebuilt": "~2.1.7",
+    "karma-phantomjs-launcher": "~1.0.0",
+    "coveralls": "~2.11.9",
+    "jasmine-jquery": "~2.1.1"
+  },
+  "dependencies": {
+    "moment": "~2.13.0",
+    "jquery": "~1.11.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
