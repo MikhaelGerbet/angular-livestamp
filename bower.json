@@ -6,7 +6,7 @@
   	],
   	"repository": {
 		"type": "git",
-		"url": "git://github.com/urish/angular-spinner.git"
+		"url": "git://github.com/MikhaelGerbet/angular-livestamp.git"
 	},
   	"description": "Angular directive to show an auto-updating timeago text to your timestamped HTML elements (using Livestamp.js and Moment.js)",
   	"main": "./angular-livestamp.js",
