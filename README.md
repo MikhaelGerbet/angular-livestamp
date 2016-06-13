@@ -4,15 +4,7 @@ Angular directive to show an auto-updating timeago text to your timestamped HTML
 
 Copyright (C) 2016, Mikhael GERBET <frollon.noir@gmail.com>.
 
-[![Build Status](https://travis-ci.org/MikhaelGerbet/angular-livestamp.png?branch=master)](https://travis-ci.org/MikhaelGerbet/angular-livestamp)
-[![Coverage Status](https://coveralls.io/repos/github/MikhaelGerbet/angular-livestamp/badge.svg?branch=master)](https://coveralls.io/github/MikhaelGerbet/angular-livestamp?branch=master)
-[![Dependency Status](https://david-dm.org/MikhaelGerbet/angular-livestamp.svg?style=flat)](https://david-dm.org/MikhaelGerbet/angular-livestamp)
-[![devDependency Status](https://david-dm.org/MikhaelGerbet/angular-livestamp/dev-status.svg?style=flat)](https://david-dm.org/MikhaelGerbet/angular-livestamp#info=devDependencies)
-[![NPM Version](http://img.shields.io/npm/v/angular-livestamp.svg?style=flat)](https://www.npmjs.org/)
 
-[![Bower version][bower-version-image]][bower-url]
-[![NPM version][npm-version-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
 
 
 ## Usage
@@ -60,16 +52,8 @@ Released under the terms of MIT License.
 6. `grunt build` once all tests are passing. Commit, push, PR.
 
 
-```
 
 
-[bower-version-image]: http://img.shields.io/bower/v/angular-livestamp.svg?style=flat
-[bower-url]: http://bower.io/search/?q=angular-livestamp
 
-[npm-url]: https://npmjs.org/package/angular-livestamp
-[npm-version-image]: http://img.shields.io/npm/v/angular-livestamp.svg?style=flat
-
-[travis-image]: https://travis-ci.org/MikhaelGerbet/angular-livestamp.png?branch=master
-[travis-url]: https://travis-ci.org/MikhaelGerbet/angular-livestamp 
 
 
