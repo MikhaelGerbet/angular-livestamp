@@ -4,7 +4,12 @@ Angular directive to show an auto-updating timeago text to your timestamped HTML
 
 Copyright (C) 2016, Mikhael GERBET <frollon.noir@gmail.com>.
 
-
+[![Coverage Status][coverage-image]][coverage-url]
+[![Bower version][bower-version-image]][bower-url]
+[![NPM version][npm-version-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Dependency Status][dependency-image]][dependency-url]
+[![devDependency Status][dev-dependency-image]][dev-dependency-url]
 
 
 ## Usage
@@ -53,7 +58,18 @@ Released under the terms of MIT License.
 
 
 
-
+[coverage-image]: https://coveralls.io/repos/github/MikhaelGerbet/angular-livestamp/badge.svg?branch=master
+[coverage-url]: https://coveralls.io/github/MikhaelGerbet/angular-livestamp?branch=master
+[bower-version-image]: http://img.shields.io/bower/v/angular-livestamp.svg?style=flat
+[bower-url]: http://bower.io/search/?q=angular-livestamp
+[npm-url]: https://npmjs.org/package/angular-livestamp
+[npm-version-image]: http://img.shields.io/npm/v/angular-livestamp.svg?style=flat
+[travis-image]: https://travis-ci.org/MikhaelGerbet/angular-livestamp.png?branch=master
+[travis-url]: https://travis-ci.org/MikhaelGerbet/angular-livestamp 
+[dependency-image]: https://david-dm.org/MikhaelGerbet/angular-livestamp.svg?style=flat
+[dependency-url]: https://david-dm.org/MikhaelGerbet/angular-livestamp
+[dev-dependency-image]: https://david-dm.org/MikhaelGerbet/angular-livestamp/dev-status.svg?style=flat
+[dev-dependency-url]: https://david-dm.org/MikhaelGerbet/angular-livestamp#info=devDependencies
 
 
 
