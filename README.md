@@ -58,3 +58,18 @@ Released under the terms of MIT License.
 4. Make your changes, add your tests.
 5. `grunt test`
 6. `grunt build` once all tests are passing. Commit, push, PR.
+
+
+```
+
+
+[bower-version-image]: http://img.shields.io/bower/v/angular-livestamp.svg?style=flat
+[bower-url]: http://bower.io/search/?q=angular-livestamp
+
+[npm-url]: https://npmjs.org/package/angular-livestamp
+[npm-version-image]: http://img.shields.io/npm/v/angular-livestamp.svg?style=flat
+
+[travis-image]: https://travis-ci.org/MikhaelGerbet/angular-livestamp.png?branch=master
+[travis-url]: https://travis-ci.org/MikhaelGerbet/angular-livestamp 
+
+
