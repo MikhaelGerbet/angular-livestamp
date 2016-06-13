@@ -10,7 +10,9 @@ Copyright (C) 2016, Mikhael GERBET <frollon.noir@gmail.com>.
 [![devDependency Status](https://david-dm.org/MikhaelGerbet/angular-livestamp/dev-status.svg?style=flat)](https://david-dm.org/MikhaelGerbet/angular-livestamp#info=devDependencies)
 [![NPM Version](http://img.shields.io/npm/v/angular-livestamp.svg?style=flat)](https://www.npmjs.org/)
 
-
+[![Bower version][bower-version-image]][bower-url]
+[![NPM version][npm-version-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
 
 
 ## Usage
