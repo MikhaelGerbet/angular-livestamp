@@ -7,7 +7,6 @@ Copyright (C) 2016, Mikhael GERBET <frollon.noir@gmail.com>.
 [![Coverage Status][coverage-image]][coverage-url]
 [![Build Status][travis-image]][travis-url]
 [![Bower version][bower-version-image]][bower-url]
-[comment]: <> ([![NPM version][npm-version-image]][npm-url])
 [![Dependency Status][dependency-image]][dependency-url]
 [![devDependency Status][dev-dependency-image]][dev-dependency-url]
 
