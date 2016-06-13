@@ -6,6 +6,12 @@ Copyright (C) 2016, Mikhael GERBET <frollon.noir@gmail.com>.
 
 [![Build Status](https://travis-ci.org/MikhaelGerbet/angular-livestamp.png?branch=master)](https://travis-ci.org/MikhaelGerbet/angular-livestamp)
 [![Coverage Status](https://coveralls.io/repos/github/MikhaelGerbet/angular-livestamp/badge.svg?branch=master)](https://coveralls.io/github/MikhaelGerbet/angular-livestamp?branch=master)
+[![Dependency Status](https://david-dm.org/MikhaelGerbet/angular-livestamp.svg?style=flat)](https://david-dm.org/MikhaelGerbet/angular-livestamp)
+[![devDependency Status](https://david-dm.org/MikhaelGerbet/angular-livestamp/dev-status.svg?style=flat)](https://david-dm.org/MikhaelGerbet/angular-livestamp#info=devDependencies)
+[![NPM Version](http://img.shields.io/npm/v/angular-livestamp.svg?style=flat)](https://www.npmjs.org/)
+
+
+
 
 ## Usage
 
